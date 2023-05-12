@@ -51,7 +51,7 @@ git clone https://github.com/leandrodemello/food-explorer-front
 
 #### Back-end
 
-git clone https://
+git clone https://github.com/leandrodemello/food-explorer-back
 
 #### Acessar a pasta e instalar as dependências:
 
