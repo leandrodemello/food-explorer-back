@@ -29,7 +29,7 @@ O usuário, após fazer o cadastro, irá visualizar todos os pratos cadastrados 
 
 ## Deploy
 
-- Site:  https://
+- Site:  https://foodexplorermcz.netlify.app/
 
 
 ## Front-End
@@ -63,7 +63,7 @@ npm run dev
 
 #### Acessar o endereço fornecido pelo terminal via Browser:
 
-Ex.:    Local: http://localhost:3333/
+Ex.: Local: http://localhost:3333/
 
 ## Imagens
 
