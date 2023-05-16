@@ -1,4 +1,4 @@
-## Food Explorer - Desafio Final (Front-End)
+## Food Explorer - Desafio Final (Back-End)
 
 Neste desafio, foi desenvolvido o food explorer, um menu interativo para um restaurante fictício.
 Construir uma aplicação de ponta a ponta com front-end e back-end, utilizando as teconologias aprendidas no Explorer, simulando um restaurante. 
