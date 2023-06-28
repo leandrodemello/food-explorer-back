@@ -1,4 +1,4 @@
-## Food Explorer - Desafio Final (Back-End)
+# Food Explorer - Desafio Final (Back-End)
 
 Neste desafio, foi desenvolvido o food explorer, um menu interativo para um restaurante fictício.
 Construir uma aplicação de ponta a ponta com front-end e back-end, utilizando as teconologias aprendidas no Explorer, simulando um restaurante. 
@@ -11,7 +11,7 @@ O admin é a pessoa responsável pelo restaurante, logo, pode criar, visualizar,
 O usuário, após fazer o cadastro, irá visualizar todos os pratos cadastrados e, quando clica em um prato, é redirecionado para uma nova tela com informações mais detalhadas sobre ele.
 
 
-## Características
+### Características
 
 - Poderão ser criados novos usuários através da tela de SingUp. 
 - Por padrão todos os usuários criados serão consumidores.  
@@ -27,45 +27,45 @@ O usuário, após fazer o cadastro, irá visualizar todos os pratos cadastrados 
 - Aplicado o conceito de Inversão de dependência na API do usuário.
 
 
-## Deploy
+### Deploy
 
 - Site:  https://foodexplorermcz.netlify.app/
 
 
-## Front-End
+### Front-End
 
 - Site: https://github.com/leandrodemello/food-explorer-front
 
 
-## Administrador: 
+### Administrador: 
 - Email: admin@email.com
 - Senha: 123456
 
 
-## Instruções para a execução do projeto:
+### Instruções para a execução do projeto:
 
-#### Front-end
+### Front-end
 
 git clone https://github.com/leandrodemello/food-explorer-front
 
 
-#### Back-end
+### Back-end
 
 git clone https://github.com/leandrodemello/food-explorer-back
 
-#### Acessar a pasta e instalar as dependências:
+### Acessar a pasta e instalar as dependências:
 
 npm install
 
-#### Iniciar o servidor local: (back-end / front-end)
+### Iniciar o servidor local: (back-end / front-end)
 
 npm run dev
 
-#### Acessar o endereço fornecido pelo terminal via Browser:
+### Acessar o endereço fornecido pelo terminal via Browser:
 
 Ex.: Local: http://localhost:3333/
 
-## Imagens
+### Imagens
 
 ![página1](https://user-images.githubusercontent.com/118762335/235221680-9b3f9f7e-b189-48b3-9d34-491084ec5507.png)
 ![página5](https://user-images.githubusercontent.com/118762335/235221735-8669adaa-9db8-43c6-8f0d-ee990b93806b.png)
@@ -74,12 +74,18 @@ Ex.: Local: http://localhost:3333/
 ![página3](https://user-images.githubusercontent.com/118762335/235223847-9deea233-062a-4eaf-b4cb-e69db3a95845.png)
 
 
-## Tecnologias usadas
+### Tecnologias usadas
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,jquery,express,sqlite,nodejs,git,vite,figma)](https://skillicons.dev)
 
 
-## Contato
+### Contato
+Se você quiser entrar em contato comigo para oportunidades de trabalho, colaborações ou apenas para dizer olá, sinta-se à vontade para me contatar por meio dos seguintes canais:
 
-#### [Leandro Mello](https://www.linkedin.com/in/leandro-mello-47a24823b/)
+Email: leandro.devmcz@gmail.com </br>
+Portfólio: https://leandromello.dev/ </br>
+GitHub: https://github.com/leandrodemello </br>
+Linkedin: https://www.linkedin.com/in/leandro-mello-47a24823b/
+
+Obrigado pela visita e aproveite a exploração dos projetos!
 
